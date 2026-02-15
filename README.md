@@ -22,14 +22,21 @@ ecommerce-crud-api/
 │
 ├── controllers/
 │ └── productController.js
+
 ├── models/
 │ └── Product.js
+
 ├── routes/
 │ └── productRoutes.js
+
 ├── server.js
+
 ├── package.json
+
 ├── package-lock.json
+
 ├── .gitignore
+
 └── README.md
 
 
