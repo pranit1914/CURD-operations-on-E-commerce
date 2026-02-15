@@ -18,3 +18,32 @@ This project demonstrates **full CRUD operations** with proper project structure
 
 ## 🗂 Project Structure
 
+ecommerce-crud-api/
+│
+├── controllers/
+│ └── productController.js
+├── models/
+│ └── Product.js
+├── routes/
+│ └── productRoutes.js
+├── server.js
+├── package.json
+├── package-lock.json
+├── .gitignore
+└── README.md
+
+
+---
+
+## ⚙️ Prerequisites
+
+- Node.js v18+  
+- npm v9+  
+- MongoDB (local or cloud)  
+
+---
+
+## 🛠 Installation
+
+ Clone this repository and run on ur Laptop . 🙏🙏❤️
+
