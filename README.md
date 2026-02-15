@@ -15,6 +15,9 @@ This project demonstrates **full CRUD operations** with proper project structure
 - Ready to extend with authentication, search, filtering, and pagination
 
 ---
+<img width="236" height="555" alt="image" src="https://github.com/user-attachments/assets/1cfa2042-bf8f-464d-9142-dc2a4277236d" />
+
+
 
 ## 🗂 Project Structure
 
